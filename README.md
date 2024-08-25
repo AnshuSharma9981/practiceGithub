@@ -1,2 +1,2 @@
 # practiceGithub
-this repositery for my practice
+this repositery for my practice.
